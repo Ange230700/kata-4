@@ -1,0 +1,13 @@
+{
+  "name": "kata-4",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
