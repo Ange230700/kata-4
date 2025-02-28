@@ -29,10 +29,6 @@ nav menu {
     text-align: right;
 }
 
-main {
-    flex: 1;
-}
-
 footer {
     height: 100vw;
     max-height: 400px;
@@ -67,3 +63,16 @@ footer menu {
     justify-content: space-evenly;
 }
 
+#hero {
+    height: 100vw;
+    max-height: 400px;
+    gap: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero p {
+    font-size: 1.5rem;
+}
